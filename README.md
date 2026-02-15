@@ -228,7 +228,30 @@ plot_loss_and_accuracy_from_history(history)
 
 ---
 
-## 👤 Author
+## 📊 Results
 
-Abhijith Babu  
-AI Engineer | Deep Learning | OCR Systems
+### Sample Predictions
+<p align="center">
+  <img src="images/output.png" width="700">
+</p>
+
+### Accuracy Curve
+<p align="center">
+  <img src="images/acc.png" width="500">
+</p>
+
+### Loss Curve
+<p align="center">
+  <img src="images/loss.png" width="500">
+</p>
+
+---
+
+## 👨‍💻 Author
+
+Abhijith Babu
+Passionate about ML & AI 🚀
+
+📌 GitHub: [https://github.com/AbhijithBabu12]
+
+📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
